@@ -9,6 +9,7 @@ This is a simple implementation of a **Finite State Machine**
 Splash -> Title -> Game -> GameOver -> *...Title*
 
 ## Demo
+[Play in your browser](http://www.lexaloffle.com/bbs/?tid=29087)
 
 ## Acknowledgements
 
