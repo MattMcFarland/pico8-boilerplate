@@ -15,7 +15,7 @@ Splash -> Title -> Game -> GameOver -> *...Title*
 * print9() custom font library by [qbicfeet](http://www.lexaloffle.com/bbs/?tid=27669)
 * fade transitions by [innomin](http://www.lexaloffle.com/bbs/?tid=2467)
 
-##License (MIT)
+## License (MIT)
 
 ```
 WWWWWW||WWWWWW
