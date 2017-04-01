@@ -16,6 +16,7 @@ Splash -> Title -> Game -> GameOver -> *...Title*
 * fade transitions by [innomin](http://www.lexaloffle.com/bbs/?tid=2467)
 
 ##License (MIT)
+
 ```
 WWWWWW||WWWWWW
  W W W||W W W
